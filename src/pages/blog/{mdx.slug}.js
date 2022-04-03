@@ -8,4 +8,6 @@ const BlogPost = () => {
     </Layout>
   )
 }
+
+
 export default BlogPost
